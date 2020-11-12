@@ -1,0 +1,16 @@
+{
+  "name": "Markdown-to-HTML-converter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "convert": ". ./env.sh && node ./converter/index.js",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Katie Holland",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
