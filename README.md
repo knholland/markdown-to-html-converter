@@ -1,5 +1,5 @@
 # Markdown to HTML Converter
-This program implements a Markdown to HTML converter based on the spec from [this assignment]('./assignment.md').
+This program implements a Markdown to HTML converter.
 
 Some assumptions are being made:
 1. Converter should honor punctuation.
